@@ -2,12 +2,12 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '云生站点监测',
+  SiteName: 'PLA站点监测',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur1078385-b9802a0868414b8a975d5038',
+    'u2252331-4f2287fae0ca6ca9219ec93a',
   ],
 
     // 日志天数
@@ -22,15 +22,15 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://tjys.tk'
+      url: 'https://pla81.link'
     },
     {
       text: '博客',
-      url: 'https://blog.qikaile.tk'
+      url: 'https://pla81.link'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/qikaile/uptime-status'
+      url: 'https://github.com/PLA888/uptime-status'
     },
   ],
 };
