@@ -26,11 +26,11 @@ window.Config = {
     },
     {
       text: '博客',
-      url: 'https://pla81.link'
+      url: 'https://pla81cn.blogspot.com/'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/PLA888/uptime-status'
+      url: 'https://github.com/PLA888'
     },
   ],
 };
